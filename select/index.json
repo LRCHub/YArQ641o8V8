@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Only Time",
+  "base_artist": "Enya",
+  "createdAt": "2026-03-09T16:06:46.573542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "'68 aka Only Time",
+      "artist": "Lemon Jelly",
+      "has_synced": false,
+      "path": "select/01_'68_aka_Only_Time_Lemon_Jelly.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Only Time",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/02_It's_Only_Time_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Only Time",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/03_The_Only_Time_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Only Time",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/04_Only_Time_Enya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Only Time",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/05_Only_Time_Enya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Only Time",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/06_Only_Time_Enya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Only Time",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/07_Only_Time_Enya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Only Time",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/08_Only_Time_Enya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Only Time",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/09_Only_Time_Enya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Only Time",
+      "artist": "Neora",
+      "has_synced": false,
+      "path": "select/10_Only_Time_Neora.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Only Time - Original Version",
+      "artist": "Enya",
+      "has_synced": false,
+      "path": "select/11_Only_Time_-_Original_Version_Enya.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only Time Will Tell",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/12_Only_Time_Will_Tell_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Only Time Will Tell",
+      "artist": "Laura Branigan",
+      "has_synced": false,
+      "path": "select/13_Only_Time_Will_Tell_Laura_Branigan.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Are Only Time",
+      "artist": "Coma Cinema",
+      "has_synced": false,
+      "path": "select/14_We_Are_Only_Time_Coma_Cinema.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Only Time (First Sessions Outtake)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/15_The_Only_Time_(First_Sessions_Outtake)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Now's the Only Time I Know",
+      "artist": "Fever Ray",
+      "has_synced": true,
+      "path": "select/16_Now's_the_Only_Time_I_Know_Fever_Ray.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Only Time Will Tell",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/17_Only_Time_Will_Tell_Poison.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "only time",
+      "artist": "enya",
+      "has_synced": false,
+      "path": "select/pl_01_only_time_enya.txt"
+    }
+  ]
+}
